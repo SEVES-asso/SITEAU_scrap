@@ -1,8 +1,12 @@
 # SITEAU_Scrap
 
-Fichier permettant d'extraire les données PDF de la base SITEAU (Tchad) à partir d'une extraction manuelle au format `*.xlsx`.
+Fichier permettant d'extraire les coupes lithologiques et pompages d'essai au format `.pdf` à paritr de la base de données de forages SITEAU **Tchad**.
+
+_Vue de la base de données via QGIS :_
 
 ![CAR_foragesTopo_Bessada_170x120_250dpi_200000e](https://github.com/SEVES-asso/SITEAU_scrap/assets/4429183/707a5171-4ea0-43de-880f-92be169745e3)
+
+_Résultat d'extration :_
 
 ![image](https://github.com/SEVES-asso/SITEAU_scrap/assets/4429183/16b49f26-be29-4ef2-bc90-479caa288e71)
 
