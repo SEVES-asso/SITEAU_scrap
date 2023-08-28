@@ -10,10 +10,10 @@ Fichier permettant d'extraire les données PDF de la base SITEAU (Tchad) à part
 ## Utilisation
 
 - Récupérer la base de données SITEAU (2 options) :
-  - soit télécharger la liste des forages sur la page : http://reseau-tchad.org/siteau/coupe_litho/ et copier-coller le tableau de la page dans un fichier `.xlsx` avec la première ligne du tableau (données à jour) ;
-  - soit utiliser la base de données à la racine du répertoire GitHub `logs_Forage_TCHAD.xlsx` ;
+   - soit télécharger la liste des forages sur la page : http://reseau-tchad.org/siteau/coupe_litho/ et copier-coller le tableau de la page dans un fichier `.xlsx` avec la première ligne du tableau (données à jour) ;
+   - soit utiliser la base de données à la racine du répertoire GitHub `logs_Forage_TCHAD.xlsx` ;
 -  *Recommandé : traitement par un SIG pour ne récupérer que les forages d'intérêt :*
-  - *enregister la base de données au format `.csv` ;*
-  - *sélectionner les forages d'intérêt dans le SIG et sauvegarder la sélection dans un fichier `.xlsx` ;*
+   - *enregister la base de données au format `.csv` ;*
+   - *sélectionner les forages d'intérêt dans le SIG et sauvegarder la sélection dans un fichier `.xlsx` ;*
 - Lancer `SITEAU_scrap.ipynb` pour collecter les coupes lithologiques et pompages d'essai de la base de données SITEAU.
 
